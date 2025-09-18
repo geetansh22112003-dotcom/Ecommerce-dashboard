@@ -80,5 +80,5 @@ To build an interactive Power BI dashboard that provides:
  •	Building executive-ready dashboards with storytelling visuals
  •	Using slicers & drill-downs for interactivity and exploration
 
-📷 [Dashboard Preview](https://github.com/geetansh22112003-dotcom/Ecommerce-dashboard/blob/main/Ecommerce-dashboard.png)
+Example: 📷  ![Dashboard Preview](https://github.com/geetansh22112003-dotcom/Ecommerce-dashboard/blob/main/Ecommerce-dashboard.png)
 
